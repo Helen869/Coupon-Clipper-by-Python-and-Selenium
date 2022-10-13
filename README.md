@@ -12,7 +12,7 @@ Login automatically
 
 Clip all digital coupons by search result
 
-Retrieve points balance
+Retrieve points balance and expire date
 
 Retrieve purchases summary for analytical purpose
 ```
