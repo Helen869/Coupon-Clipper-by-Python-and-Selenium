@@ -1,4 +1,4 @@
-# Interaction-with-MarianosWeb-by-Python-and-Selenium
+# Interaction-with-Website-by-Python-and-Selenium
 Marianos is my favourite local grovery store, but every time I have to applying the digital coupons manually. With this project, the coupons in my interested categories could be loaded automatically.
 
 ### Method to Acchieve:
