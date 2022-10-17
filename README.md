@@ -1,8 +1,8 @@
-# Interaction-Coupon-Clipper-by-Python-and-Selenium
+# Coupon-Clipper-by-Python-and-Selenium
 
-I like to shopping at Jewelosco(also known as Safeway in other area), but every time I have to applying the digital coupons manually. With this project, the coupons in my interested categories and weekly ad could be loaded automatically. Delay added in page loading, inputing and clipping intentionally to avoid bot dections.
+I like to shopping at Jewelosco(also known as Safeway in other area), but every time I have to applying the digital coupons manually. With this project, the coupons in my interested categories and weekly ad could be loaded automatically. Delay added in page loading, inputting and clipping intentionally to avoid bot detection.
 
-Marianos is my another favourite local grovery store, but it can reconagnize selenium as bot easily. Please refer to issues for details.
+Marianos is my another favourite local grocery store, but their system can recognize selenium as bot easily. Please refer to issues for details.
 
 ### Method to Acchieve:
 Combine Selenium automation testing tool with Python 
@@ -12,22 +12,39 @@ Complete the following functions:
 ```css
 Login automatically
 
-Clip all digital coupons by catagory search result
+Clip all digital coupons by category search result
 
-Clip all weekly ad couopns
+Clip all weekly ad coupons
 ```
+Following is an the video to show how it looks like when running:
+
+https://drive.google.com/drive/u/0/folders/1z3oTUpbWAdI8hAPV05_mlOOfaWZV-1JM
 ### How to run:
-Package Selenium and Yaml is required
+Install Selenium, Chromedriver.exe
+( download link https://chromedriver.chromium.org/downloadsmust match the version of Chrome)
+Install Yaml
+
 In config.yml file , set up email, password and catagories.
+
 Run file JW_CPCliper.py
 
-####Example of config.yml file as following:
+#### Example of config.yml file as following:
+
 userinfo:
-  email: "sfw12345@gmail.com"
-  passowrd: "12345abcde"
+
+   email: "sfw12345@gmail.com"
+  
+   passowrd: "12345abcde"
+  
 catagory: [coca, fish]
 
+
 ### To do:
-Run the funtion automatically with script , for example run the script every Wednesday  at 1am
+```css
+Run the function automatically with script , for example run the script every Wednesday  at night
+
 Retrieve Rewards summary with expire date
-Email/text reminder for interested coupons or expiring rewards
+
+Email or text reminder for interested coupons or expiring rewards
+
+```
