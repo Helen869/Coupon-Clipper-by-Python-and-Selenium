@@ -18,7 +18,7 @@ Clip all weekly ad coupons
 ```
 Following is an the video to show how it looks like when running:
 
-https://drive.google.com/drive/u/0/folders/1z3oTUpbWAdI8hAPV05_mlOOfaWZV-1JM
+https://drive.google.com/file/d/1hCV2tGzt8akWg6NttqXp_sh963wuqxdv/view?usp=sharing
 ### How to run:
 Install Selenium, Chromedriver.exe
 ( download link https://chromedriver.chromium.org/downloadsmust match the version of Chrome)
