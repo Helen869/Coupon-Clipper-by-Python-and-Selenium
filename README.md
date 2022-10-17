@@ -1,6 +1,6 @@
 # Coupon-Clipper-by-Python-and-Selenium
 
-I like to shopping at Jewelosco(also known as Safeway in other area), but every time I have to applying the digital coupons manually. With this project, the coupons in my interested categories and weekly ad could be loaded automatically. Delay added in page loading, inputting and clipping intentionally to avoid bot detection.
+I like to shop at Jewelosco(also known as Safeway in other areas), but every time I have to apply the digital coupons manually. With this project, the coupons in my interested categories and weekly ad could be loaded automatically. Delay added in page loading, inputting and clipping intentionally to avoid bot detection.
 
 Marianos is my another favourite local grocery store, but their system can recognize selenium as bot easily. Please refer to issues for details.
 
